@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 55px;
+    padding-top: 100px;
+}
+.st-logo{
+    margin-left: 12%;
+    margin-top: -155px;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+.nav li{
+    padding-left: 50px;
+}
+.main-logo{
+    
+    height: 750px;
+    width: 100%;
+
+}
+h2{
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+p{
+    margin-left: 30px;
+    margin-top: 15px;
+    text-align: justify;
+}
+.ak{
+    margin-left: 2%;
+}
+.last-logo{
+    margin-left: 30%;
+}
+.end{
+text-align: center;
+padding-top: 5%;
+padding-bottom: 25%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}  
+
+
+
+
